@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Sortpersonbynameage.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Sortpersonbynameage.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Sortpersonbynameage.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Sortpersonbynameage.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Sortpersonbynameage.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Sortpersonbynameage.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Sortpersonbynameage.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\BTVNslot789\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Sortpersonbynameage.dll
